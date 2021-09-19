@@ -1,0 +1,105 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (23.0.0)
+  - FINNBottomSheet (5.1.3)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManager (6.5.6)
+  - Kingfisher (6.3.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SVProgressHUD (2.2.5)
+  - SwifterSwift (5.2.0):
+    - SwifterSwift/AppKit (= 5.2.0)
+    - SwifterSwift/CoreAnimation (= 5.2.0)
+    - SwifterSwift/CoreGraphics (= 5.2.0)
+    - SwifterSwift/CoreLocation (= 5.2.0)
+    - SwifterSwift/Dispatch (= 5.2.0)
+    - SwifterSwift/Foundation (= 5.2.0)
+    - SwifterSwift/MapKit (= 5.2.0)
+    - SwifterSwift/SceneKit (= 5.2.0)
+    - SwifterSwift/SpriteKit (= 5.2.0)
+    - SwifterSwift/StoreKit (= 5.2.0)
+    - SwifterSwift/SwiftStdlib (= 5.2.0)
+    - SwifterSwift/UIKit (= 5.2.0)
+  - SwifterSwift/AppKit (5.2.0)
+  - SwifterSwift/CoreAnimation (5.2.0)
+  - SwifterSwift/CoreGraphics (5.2.0)
+  - SwifterSwift/CoreLocation (5.2.0)
+  - SwifterSwift/Dispatch (5.2.0)
+  - SwifterSwift/Foundation (5.2.0)
+  - SwifterSwift/MapKit (5.2.0)
+  - SwifterSwift/SceneKit (5.2.0)
+  - SwifterSwift/SpriteKit (5.2.0)
+  - SwifterSwift/StoreKit (5.2.0)
+  - SwifterSwift/SwiftStdlib (5.2.0)
+  - SwifterSwift/UIKit (5.2.0)
+  - SwiftMessages (9.0.3):
+    - SwiftMessages/App (= 9.0.3)
+  - SwiftMessages/App (9.0.3)
+  - SwiftValidator (4.0.0)
+  - TransitionButton (0.5.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - Cosmos
+  - FINNBottomSheet (from `https://github.com/finn-no/BottomSheet.git`)
+  - iOSDropDown
+  - IQKeyboardManager
+  - Kingfisher
+  - ReachabilitySwift
+  - SDWebImage
+  - SVProgressHUD
+  - SwifterSwift
+  - SwiftMessages
+  - SwiftValidator (from `https://github.com/jpotts18/SwiftValidator.git`, tag `4.2.0`)
+  - TransitionButton
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - iOSDropDown
+    - IQKeyboardManager
+    - Kingfisher
+    - ReachabilitySwift
+    - SDWebImage
+    - SVProgressHUD
+    - SwifterSwift
+    - SwiftMessages
+    - TransitionButton
+
+EXTERNAL SOURCES:
+  FINNBottomSheet:
+    :git: https://github.com/finn-no/BottomSheet.git
+  SwiftValidator:
+    :git: https://github.com/jpotts18/SwiftValidator.git
+    :tag: 4.2.0
+
+CHECKOUT OPTIONS:
+  FINNBottomSheet:
+    :commit: 986f686b32a56213891b7b4313c61f0de76b5527
+    :git: https://github.com/finn-no/BottomSheet.git
+  SwiftValidator:
+    :git: https://github.com/jpotts18/SwiftValidator.git
+    :tag: 4.2.0
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  FINNBottomSheet: 48e3bca551a8f68b102d7594d0641d04ea6c8c29
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+  SwiftMessages: 077f19126c24033fe24042237ecc20261adb46e4
+  SwiftValidator: 249b6b3ae3b294266c5b9de134d94f18f2d5aa47
+  TransitionButton: 36283346e17c64775a1b3bc3a7a72940a367de1f
+
+PODFILE CHECKSUM: a342d0c2a6b3fafebe274fbadb7eb5164d73b012
+
+COCOAPODS: 1.10.1
